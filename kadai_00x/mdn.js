@@ -1,5 +1,3 @@
-// ... 既存のコード ...
-
 // 現在の年月日を取得して表示する関数
 function displayCurrentDate() {
     const today = new Date();
